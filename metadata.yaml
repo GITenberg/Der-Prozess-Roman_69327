@@ -1,0 +1,33 @@
+_repo: Der-Prozess-Roman_69327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kafka, Franz
+    alias: Kafka, F. (Franz)
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '1735'
+    url: http://www.gutenberg.org/2009/agents/1735
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Franz_Kafka
+    - https://de.wikipedia.org/wiki/Franz_Kafka
+description: ''
+gutenberg_issued: '2022-11-11'
+identifiers:
+  gutenberg: '69327'
+language: de
+pgterms:marc904: https://archive.org/details/derprozessroman00kafk/page/n7/mode/2up
+pgterms:marc905: 20210102082011kafka
+pgterms:marc906: '1925'
+pgterms:marc907: DE
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: 'Germany: Verlag die Schmiede,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Prozess: Roman'
+url: http://www.gutenberg.org/ebooks/69327
